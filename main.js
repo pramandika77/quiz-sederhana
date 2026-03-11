@@ -1,8 +1,6 @@
-// main.js
 document.addEventListener('DOMContentLoaded', () => {
     // Data Questions - 10 Pertanyaan
     const questions = [
-        // 5 Pertanyaan sebelumnya (dengan penjelasan lebih detail)
         {
             question: "Apa ibukota Indonesia?",
             options: ["Surabaya", "Bandung", "Jakarta", "Medan"],
